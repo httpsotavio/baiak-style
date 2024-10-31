@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="[PvP] Seller" script="data/npc/scripts/default.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="147" body="132" feet="0" head="78"  legs="78"  addons="3"/>
+<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Tinha que ser o |PLAYERNAME|! Deseja ficar mais fortes? Eu possuo alguns items para você."/>
+		<parameter key="shop_buyable" value="stone skin amulet,2197,2000;pharaor sword,7405,45000000;pharaor axe,2447,45000000;pharaor club,8929,45000000;pharaor wand,7414,45000000;pharaor bow,8857,45000000;"/>
+	</parameters>
+</npc>

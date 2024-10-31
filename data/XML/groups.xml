@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+<group id="1" name="Player" maxVips="100" depotLimit="1000"/>
+
+<group id="2" name="Tutor" access="1" maxVips="200" depotLimit="2000" flags="17935800303616" customFlags="109576192" violationReasons="0" nameViolationFlags="0"/>
+
+<group id="3" name="Senior Tutor" access="2" maxVips="300" depotLimit="3000" flags="17935800303616" customFlags="109576192" violationReasons="10" nameViolationFlags="2" statementViolationFlags="63"/>
+
+<group id="4" name="Gamemaster" access="3" outfit="75" maxVips="400" depotLimit="4000" flags="311492286717818" customFlags="117437375" violationReasons="20" nameViolationFlags="426" statementViolationFlags="469"/>
+
+<group id="5" name="Senior Gamemaster" access="4" outfit="266" maxVips="500" depotLimit="5000" flags="311492286717818" customFlags="117437375" violationReasons="23" nameViolationFlags="170" statementViolationFlags="213"/>
+
+<group id="6" name="God" access="5" flags="302900207001466" customFlags="117437375" violationReasons="23" nameViolationFlags="170" statementViolationFlags="213"/>
+
+<group id="7" name="Dono" access="6" flags="302908797067258" customFlags="117439487" violationReasons="23" nameViolationFlags="170" statementViolationFlags="213"/>
+</groups>

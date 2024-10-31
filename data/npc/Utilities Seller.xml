@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Utilities Seller" script="data/npc/scripts/stone.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="104" head="20" body="30" legs="40" feet="50"/>
+    <parameters> 
+        <parameter key="module_shop" value="1"/> 
+        <parameter key="shop_buyable" value="Cave Exclusiva,7141,450000000;Boost Exp,7443,60000000;Stamina Potion,2346,30000000"/> 
+    </parameters> 
+</npc>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Charge Weapon" script="weapon.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="127"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá |PLAYERNAME|! Você deseja {recarregar} as cargas de sua exercise weapon ou {comprar} uma exercise weapon?"/>
+	</parameters>
+</npc>
