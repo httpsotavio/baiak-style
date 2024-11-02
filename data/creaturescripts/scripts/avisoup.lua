@@ -1,4 +1,0 @@
-function onLogin(cid)
-	doPlayerPopupFYI(cid, "AVISO IMPORTANTE:\n\nO Servidor está em Beta Teste, nada que você conseguir aqui vai estar no servidor oficial.\nTodo mundo recebeu Full Set Donate + 999 Dias de Premium Account + Level e Skills\n\nMages: Level 450 / 100 Magic Level / 25 Shielding / Cap 4855\nPaladins: Level 450 / 110 Distance / 100 Shielding / 30 Magic Level / Cap 9275\nKnights: Level 450 / Skills 110 / Shielding 100 / Magic Level 15 / Cap 11485\n\nPara receber as skills e a cap crie seu personagem pelo site, personagem que foram criados no\nAccount Manager não recebereram as skills e a cap.\n\nSe você tem alguma ideia, susgestão ou reclamação, mande no privado de algum ADM ou no grupo do WhatsApp.\n\nWhatsApp: https://chat.whatsapp.com/D3ljMTB2Bht4dY3810sBDU\n\nAtenciosamente: Equipe Electro!")
-	return true
-end
