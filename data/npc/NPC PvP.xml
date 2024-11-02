@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="NPC PvP" script="pvp.lua" walkinterval="1500" emblem="red">
+    <health now="150" max="150"/>
+    <look type="159" head="87" body="123" legs="68" feet="43" addons="3"/>
+    <parameters>
+        <parameter key="message_greet" value="Opa oba, quer se tornar o passivo na relação ou ser o ativo? Eu posso te ajudar escolha entre {pvp on} para ser o ativo e {pvp off} para ser o passivo."/>
+    </parameters>
+</npc>
